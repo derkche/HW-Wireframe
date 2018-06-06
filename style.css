@@ -1,0 +1,81 @@
+/* First Homework Assignment.css */
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{background-color:grey;}
+
+header{
+    color: grey;
+    background-color: #dfdfdf;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+nav{
+    color: grey;
+    background-color: #dfdfdf;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+section{
+    float: left;
+    color: grey;
+    background-color: #dfdfdf;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 55%;
+    height: 311px;
+}
+
+article{
+    color: #dfdfdf;
+    background-color: grey;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 24px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: grey;
+    background-color: #dfdfdf;
+}
+
+p{
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: grey;
+    background-color: #dfdfdf;
+}
+
+aside {
+    float: right;
+    color: grey;
+    background-color: #dfdfdf;
+    padding: 20px;
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+    /* margin-left: 10px; */
+    height:311px;
+    width: 44%;
+    
+}
+
+footer{
+    clear: both;
+    color: grey;
+    background-color: #dfdfdf;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
