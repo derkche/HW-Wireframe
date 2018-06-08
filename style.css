@@ -12,6 +12,8 @@ body{
     background-color: #777;
     width: 960px;
     font-size: 18px;
+    margin: auto;
+    padding-top: 10px;
 }
 
 header{
@@ -36,7 +38,7 @@ section{
     padding: 20px;
     margin-top: 10px;
     margin-bottom: 20px;
-    width: 55%;
+    width: 495px;
     height: 311px;
 }
 
@@ -74,7 +76,7 @@ aside {
     /* margin-bottom: 20px; */
     /* margin-left: 10px; */
     height:311px;
-    width: 44%;
+    width: 450px;
     
 }
 
